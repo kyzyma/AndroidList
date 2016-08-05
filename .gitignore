@@ -1,0 +1,12 @@
+
+List/bin
+List/obj
+
+*.pidb
+*.userprefs
+*.swp
+*.DS_Store
+*.nib
+*.suo
+*.user
+*.pfx
